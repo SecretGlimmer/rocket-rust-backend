@@ -1,1 +1,1 @@
-# rocket-rust-backend
+# Rocket Rust Backend
